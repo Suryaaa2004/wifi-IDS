@@ -1,5 +1,5 @@
 # WiFi Intrusion Detection System (WiFi IDS) 🚨📡
-Keep your wireless network safe from common attacks — and get notified instantly via Telegram.
+Keep your wireless network safe from common attacks and get notified instantly via Telegram.
 
 # About the Project
 This tool watches your WiFi network in real-time and alerts you if it spots something suspicious, like:
